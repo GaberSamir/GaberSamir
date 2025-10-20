@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaber Samir</h1>
-<h3 align="center">A highly skilled Web Developer and SEO Specialist with extensive experience in search engine optimization and website development. I possess strong analytical and problem solving abilities, enabling me to enhance website performance and increase search engine visibility. I have in-depth knowledge of search engine algorithms, SEO tools, and expertise in content writing and performance analysis.</h3>
+<h3 align="center">a professional Web Developer specialized in Frontend, Backend, UI/UX Design, SEO, and CMS Development. I'm Gaber Samir Gaber, a Web Developer specialized in Front-End, Back-End, UI/UX Design, SEO, and CMS Development. I build professional websites using Laravel, Node.js (Express.js), and WordPress, focusing on performance, design, and user experience. 💡 Passionate about programming and learning new technologies to create innovative and efficient web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabersamir&label=Profile%20views&color=0e75b6&style=flat" alt="gabersamir" /> </p>
 
@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrgabersamir" target="blank"><img src="https://img.shields.io/twitter/follow/mrgabersamir?logo=twitter&style=for-the-badge" alt="mrgabersamir" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 👯 I’m looking to collaborate on **Backend PHP Laravel**
+- 👯 I’m looking to collaborate on **BackEnd PHP Laravel**
+
+- 💬 Ask me about **React, Vue,**
 
 - 📫 How to reach me **GaberSamir95@Gmail.Com**
 
