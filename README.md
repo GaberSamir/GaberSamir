@@ -1,20 +1,16 @@
-<br clear="both">
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=301&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=50&stroke=1904E5&strokeWidth=-14&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=53&rotate=0&stroke=1904E5&strokeWidth=-14&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h3 align="center">Web Developer CMS  | Frontend React</h3>
+<div align="center">
+  <img height="50" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B64AFF&width=435&lines=%F0%9F%92%BB+Web+Developer++CMS;%E2%9A%99%EF%B8%8F+Frontend+Developer;%F0%9F%A7%A0+Backend+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%9A%80+SEO+Specialist"  />
+</div>
 
 ###
 
 <p align="left">A professional Web Developer specialized in Frontend, Backend, UI/UX Design, SEO, and CMS Development. I'm Gaber Samir, a Web Developer specialized in Frontend, Backend, UI/UX Design, SEO, and CMS Development. I build professional websites using Laravel, Node.js (Express.js), and WordPress, focusing on performance, design, and user experience. 💡 Passionate about programming and learning new technologies to create innovative and efficient web solutions.</p>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gabersamir.gabersamir&left_color=blueviolet&right_color=blue"  />
 
 ###
 
@@ -23,14 +19,32 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="dribbble logo"  />
+  <a href="https://linktr.ee/MrGaberSamir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabersamir/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/MrGabersamir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="behance logo"  />
+  </a>
+  <a href="wa.me/+20 1033764441" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="whatsapp logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/31779345/%d8%ac%d8%a7%d8%a8%d8%b1-%d8%b3%d9%85%d9%8a%d8%b1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="stackoverflow logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=gabersamir&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gabersamir.gabersamir&left_color=blueviolet&right_color=blue&left_text=Profile%20Views"  />
 
 ###
 
@@ -38,7 +52,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/GaberSamir/GaberSamir/blob/main/Mockup-for-web-designers.webp?raw=true"  />
+<img align="right" height="175" src="https://github.com/GaberSamir/GaberSamir/blob/main/Mockup-for-web-designersc.webp?raw=true"  />
 
 ###
 
@@ -192,12 +206,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabersamir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabersamir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gabersamir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gabersamir&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabersamir&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabersamir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabersamir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabersamir&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
