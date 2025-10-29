@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=53&rotate=0&stroke=1904E5&strokeWidth=-14&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=53&rotate=0&stroke=1904E5&strokeWidth=-9&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -7,6 +7,10 @@
 <div align="center">
   <img height="50" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B64AFF&width=435&lines=%F0%9F%92%BB+Web+Developer++CMS;%E2%9A%99%EF%B8%8F+Frontend+Developer;%F0%9F%A7%A0+Backend+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%9A%80+SEO+Specialist"  />
 </div>
+
+###
+
+<h3 align="left">🚀 About Me</h3>
 
 ###
 
