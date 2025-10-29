@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=53&rotate=0&stroke=1904E5&strokeWidth=-9&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Hello,%F0%9F%91%8B%20I'm%20Gaber%20Samir&fontSize=50&fontAlign=50&fontAlignY=53&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -219,13 +219,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/gabersamir/gabersamir/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabersamir/gabersamir/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabersamir/gabersamir/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabersamir/gabersamir/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
