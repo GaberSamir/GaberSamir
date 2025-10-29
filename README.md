@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="center">Connect with me:</h4>
+<h3 align="center">📲 Connect with me:</h3>
 
 ###
 
@@ -37,6 +37,9 @@
   </a>
   <a href="https://stackoverflow.com/users/31779345/%d8%ac%d8%a7%d8%a8%d8%b1-%d8%b3%d9%85%d9%8a%d8%b1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.facebook.com/Eng.Gaber.Samir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="facebook logo"  />
   </a>
 </div>
 
