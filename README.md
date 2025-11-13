@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/gabersamir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/MrGabersamir" target="_blank">
+  <a href="https://www.behance.net/Gabersamir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="behance logo"  />
   </a>
   <a href="https://wa.me/201033764441" target="_blank">
