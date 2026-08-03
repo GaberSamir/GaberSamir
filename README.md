@@ -32,9 +32,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaberSamir&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gaberrashwan&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/GaberSamir?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/gaberrashwan?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="Followers" />
 </div>
 
 <br/>
@@ -168,12 +168,12 @@ const GaberRashwan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GaberSamir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B64AFF&icon_color=00D4FF&text_color=ffffff&ring_color=7F00FF&cache_seconds=1800" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberSamir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B64AFF&text_color=ffffff&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gaberrashwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B64AFF&icon_color=00D4FF&text_color=ffffff&ring_color=7F00FF&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaberrashwan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B64AFF&text_color=ffffff&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=GaberSamir&theme=tokyonight&hide_border=true&background=0D1117&stroke=B64AFF&ring=7F00FF&fire=FF6B6B&currStreakLabel=B64AFF&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=gaberrashwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=B64AFF&ring=7F00FF&fire=FF6B6B&currStreakLabel=B64AFF&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -181,7 +181,7 @@ const GaberRashwan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaberSamir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaberrashwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -189,7 +189,7 @@ const GaberRashwan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaberSamir&bg_color=0D1117&color=B64AFF&line=7F00FF&point=00D4FF&area_color=7F00FF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Gaber Rashwan GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaberrashwan&bg_color=0D1117&color=B64AFF&line=7F00FF&point=00D4FF&area_color=7F00FF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Gaber Rashwan GitHub Contribution Graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -197,7 +197,7 @@ const GaberRashwan = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GaberSamir/GaberSamir/main/snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/gaberrashwan/gaberrashwan/main/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
