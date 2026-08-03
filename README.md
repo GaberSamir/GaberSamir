@@ -167,10 +167,12 @@ const GaberRashwan = {
 
 ## 📊 GitHub Statistics
 
+<!--
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gaberrashwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B64AFF&icon_color=00D4FF&text_color=ffffff&ring_color=7F00FF&cache_seconds=1800" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaberrashwan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B64AFF&text_color=ffffff&cache_seconds=1800" />
 </div>
+-->
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=gaberrashwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=B64AFF&ring=7F00FF&fire=FF6B6B&currStreakLabel=B64AFF&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
@@ -178,6 +180,7 @@ const GaberRashwan = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -185,6 +188,7 @@ const GaberRashwan = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+-->
 
 ## 📈 Contribution Activity
 
@@ -247,4 +251,3 @@ const GaberRashwan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=130&section=footer&animation=twinkling" width="100%" />
 </div>
-#
