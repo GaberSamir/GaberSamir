@@ -247,5 +247,4 @@ const GaberRashwan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=130&section=footer&animation=twinkling" width="100%" />
 </div>
-#   G a b e r r a s h w a n  
- 
+#
