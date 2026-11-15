@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--           GITHUB PROFILE README - Gaber Rashwan        -->
+<!--           GITHUB PROFILE README - Gaber Samir        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <!-- HEADER ANIMATED WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=280&section=header&text=Gaber%20Rashwan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%8C%90%20Web%20Development%20%20%7C%20%20%F0%9F%93%88%20Digital%20Marketing&descAlignY=58&descAlign=50&descSize=22&descColor=00D4FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=280&section=header&text=Gaber%20Samir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%8C%90%20Web%20Development%20%20%7C%20%20%F0%9F%94%8D%20SEO%20%E2%80%A2%20GEO%20%E2%80%A2%20AEO&descAlignY=58&descAlign=50&descSize=22&descColor=00D4FF" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B64AFF&center=true&vCenter=true&multiline=false&random=false&width=850&lines=%F0%9F%92%BB+Web+Development+%7C+7%2B+Years+Experience;%E2%9A%99%EF%B8%8F+Building+Scalable+%26+High-Performance+Web+Apps;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+Pixel-Perfect+Interfaces;%F0%9F%9A%80+Digital+Marketing+Specialist;%F0%9F%8C%90+CMS+Expert+%7C+WordPress+%E2%80%A2+Shopify+%E2%80%A2+Salla+%E2%80%A2+Zid;%F0%9F%93%A6+Open+for+Freelance+%26+Remote+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B64AFF&center=true&vCenter=true&multiline=false&random=false&width=850&lines=%F0%9F%92%BB+Web+Development+%7C+7%2B+Years+Experience;%E2%9A%99%EF%B8%8F+Building+Scalable+%26+High-Performance+Web+Apps;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+Pixel-Perfect+Interfaces;%F0%9F%94%8D+SEO+%E2%80%A2+GEO+%E2%80%A2+AEO+Specialist;%F0%9F%93%88+Google+Ads+%26+AI+Ads+to+Amplify+SEO+Growth;%F0%9F%8C%90+CMS+Expert+%7C+WordPress+%E2%80%A2+Shopify+%E2%80%A2+Salla+%E2%80%A2+Zid;%F0%9F%93%A6+Open+for+Freelance+%26+Remote+Opportunities!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,9 +32,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaberrashwan&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GaberSamir&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/gaberrashwan?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/GaberSamir?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="Followers" />
 </div>
 
 <br/>
@@ -44,15 +44,14 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const GaberRashwan = {
-  name: "Gaber Rashwan",
+const GaberSamir = {
+  name: "Gaber Samir",
   location: "Alexandria, Egypt 🇪🇬",
   experience: "7+ years",
   roles: [
     "Full Stack Developer",
     "UI/UX Designer",
-    "SEO Specialist",
-    "Digital Marketing Expert",
+    "SEO / GEO / AEO Specialist",
     "CMS Developer",
   ],
   stack: {
@@ -60,13 +59,12 @@ const GaberRashwan = {
     backend: ["Node.js", "Express", "NestJS", ".NET", "PHP"],
     cms: ["WordPress", "WooCommerce", "Salla", "Zid", "Shopify"],
     design: ["Figma", "Adobe XD", "Photoshop", "Canva"],
-    marketing: [
+    search: [
       "SEO",
-      "Google Ads",
-      "Meta Ads",
-      "Media Buying",
-      "Social Media",
+      "GEO (Generative Engine Optimization)",
+      "AEO (Answer Engine Optimization)",
     ],
+    ads: ["Google Ads", "AI Ads"], // 📈 Supporting & amplifying SEO growth
     cloud: ["AWS", "Azure", "GCP", "Docker"],
   },
   passion: "Turning ideas into elegant digital solutions 💡",
@@ -75,16 +73,17 @@ const GaberRashwan = {
 ```
 
 <p align="left">
-🎯 I'm a <strong>Web Development and Digital Marketing Specialist</strong> from Alexandria, Egypt 🇪🇬 with <strong>7+ years of experience</strong> building scalable web applications, e-commerce platforms, and high-converting digital experiences.<br/><br/>
-💡 I specialize in crafting <strong>pixel-perfect UIs</strong> backed by <strong>robust backend systems</strong>, with a deep passion for <strong>SEO optimization</strong> and <strong>digital marketing strategies</strong> that drive real business results.<br/><br/>
-🚀 Whether you need a <strong>full-featured web app</strong>, a <strong>custom WordPress solution</strong>, or a <strong>complete digital marketing strategy</strong> — I've got you covered.
+🎯 I'm a <strong>Web Developer and SEO Specialist</strong> from Alexandria, Egypt 🇪🇬 with <strong>7+ years of experience</strong> building scalable web applications, e-commerce platforms, and search-optimized digital experiences.<br/><br/>
+🔍 I focus on <strong>SEO</strong>, <strong>GEO (Generative Engine Optimization)</strong>, and <strong>AEO (Answer Engine Optimization)</strong> — helping brands rank on Google and get cited by AI search engines like ChatGPT, Gemini, and Perplexity.<br/><br/>
+📈 I use <strong>Google Ads</strong> and <strong>AI Ads</strong> as a supporting layer to accelerate and amplify organic SEO growth.<br/><br/>
+🚀 Whether you need a <strong>full-featured web app</strong>, a <strong>custom WordPress solution</strong>, or a <strong>complete SEO / GEO / AEO strategy</strong> — I've got you covered.
 </p>
 
 <br/>
 
 <div align="center">
   <a href="https://www.behance.net/GaberRashwan" target="_blank">
-    <img src="./icons/mockup.webp" width="100%" alt="Gaber Rashwan - Portfolio & Web Design Work" title="Click to view full portfolio on Behance" />
+    <img src="./icons/mockup.webp" width="100%" alt="Gaber Samir - Portfolio & Web Design Work" title="Click to view full portfolio on Behance" />
   </a>
   <br/>
   <sub><i>✨ Click to explore my full portfolio on Behance →</i></sub>
@@ -96,13 +95,13 @@ const GaberRashwan = {
 
 <div align="center">
 
-|    🌐 Web Development    |     🎨 UI/UX Design      |  📈 Digital Marketing   |
-| :----------------------: | :----------------------: | :---------------------: |
-|   Full Stack Web Apps    |   Website & App Design   |  SEO Strategy & Audit   |
-| WordPress · WooCommerce  |     Figma / Adobe XD     |  Google Ads Campaigns   |
-|  Shopify · Salla · Zid   |    Responsive Design     | Meta Ads & Media Buying |
-|   REST API Development   |   Brand Identity & UI    | Social Media Marketing  |
-| Performance Optimization | Prototyping & Wireframes |  Analytics & Reporting  |
+|    🌐 Web Development    |     🎨 UI/UX Design      |       🔍 SEO · GEO · AEO        |
+| :----------------------: | :----------------------: | :-----------------------------: |
+|   Full Stack Web Apps    |   Website & App Design   |   SEO Strategy & Technical Audit   |
+| WordPress · WooCommerce  |     Figma / Adobe XD     |  GEO — Visibility in AI Search  |
+|  Shopify · Salla · Zid   |    Responsive Design     | AEO — Featured Snippets & Answers |
+|   REST API Development   |   Brand Identity & UI    | Google Ads & AI Ads (SEO Support) |
+| Performance Optimization | Prototyping & Wireframes |      Analytics & Reporting      |
 
 </div>
 
@@ -116,7 +115,7 @@ const GaberRashwan = {
 | -------------------------- | --------------------------------------------------- | --------------------------- | :-------------------------: |
 | 🛒 **E-Commerce Platform** | Full-featured online store with payment integration | React · Node.js · MongoDB   | [🔗 Demo](#) · [💻 Code](#) |
 | 🌐 **Corporate Website**   | Multi-language business website with CMS            | Next.js · WordPress · MySQL | [🔗 Demo](#) · [💻 Code](#) |
-| 📊 **Marketing Dashboard** | Real-time analytics & campaign tracking             | React · .NET · PostgreSQL   | [🔗 Demo](#) · [💻 Code](#) |
+| 📊 **SEO Dashboard**       | Rankings, AI-search visibility & campaign tracking  | React · .NET · PostgreSQL   | [🔗 Demo](#) · [💻 Code](#) |
 
 </div>
 
@@ -158,7 +157,7 @@ const GaberRashwan = {
 
 ```
 🔭  Building     →  Scalable E-Commerce platform with Next.js & Node.js
-🌱  Learning     →  Advanced SEO Automation & AI-powered Marketing Tools
+🌱  Learning     →  GEO & AEO strategies for AI search engines
 📖  Reading      →  System Design principles & Cloud Architecture patterns
 🎯  Goal 2026    →  Launch my own SaaS product for digital agencies
 ```
@@ -169,13 +168,13 @@ const GaberRashwan = {
 
 <!--
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gaberrashwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B64AFF&icon_color=00D4FF&text_color=ffffff&ring_color=7F00FF&cache_seconds=1800" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaberrashwan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B64AFF&text_color=ffffff&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GaberSamir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B64AFF&icon_color=00D4FF&text_color=ffffff&ring_color=7F00FF&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberSamir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B64AFF&text_color=ffffff&cache_seconds=1800" />
 </div>
 -->
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=gaberrashwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=B64AFF&ring=7F00FF&fire=FF6B6B&currStreakLabel=B64AFF&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=GaberSamir&theme=tokyonight&hide_border=true&background=0D1117&stroke=B64AFF&ring=7F00FF&fire=FF6B6B&currStreakLabel=B64AFF&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -184,7 +183,7 @@ const GaberRashwan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaberrashwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GaberSamir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -193,7 +192,7 @@ const GaberRashwan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaberrashwan&bg_color=0D1117&color=B64AFF&line=7F00FF&point=00D4FF&area_color=7F00FF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Gaber Rashwan GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaberSamir&bg_color=0D1117&color=B64AFF&line=7F00FF&point=00D4FF&area_color=7F00FF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Gaber Samir GitHub Contribution Graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
@@ -201,7 +200,7 @@ const GaberRashwan = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gaberrashwan/gaberrashwan/main/snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/GaberSamir/Gaberrashwan/main/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
