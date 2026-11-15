@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#004956" rx="60"/>
+  <path d="M88 96V84C88 62 106 44 128 44C150 44 168 62 168 84V96H192L180 196C179 205 171 212 162 212H94C85 212 77 205 76 196L64 96H88ZM108 96H148V84C148 73 139 64 128 64C117 64 108 73 108 84V96Z" fill="#BAF3E6"/>
+  <text x="128" y="166" fill="#004956" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="900" text-anchor="middle">Salla</text>
+</svg>

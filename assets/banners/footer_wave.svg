@@ -1,0 +1,21 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fw" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22B8CF"/>
+      <stop offset="50%" stop-color="#168A9A"/>
+      <stop offset="100%" stop-color="#0A2236"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fw)" opacity="0.5">
+    <animate attributeName="d" dur="16s" repeatCount="indefinite" keyTimes="0;0.5;1"
+      values="M0,40 Q225,0 450,40 T900,30 L900,120 L0,120 Z;
+              M0,25 Q225,65 450,25 T900,50 L900,120 L0,120 Z;
+              M0,40 Q225,0 450,40 T900,30 L900,120 L0,120 Z"/>
+  </path>
+  <path fill="url(#fw)" opacity="0.75">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" keyTimes="0;0.5;1"
+      values="M0,55 Q225,85 450,50 T900,60 L900,120 L0,120 Z;
+              M0,65 Q225,25 450,65 T900,40 L900,120 L0,120 Z;
+              M0,55 Q225,85 450,50 T900,60 L900,120 L0,120 Z"/>
+  </path>
+</svg>

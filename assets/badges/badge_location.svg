@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="246" height="28" role="img" aria-label="LOCATION: ALEXANDRIA, EGYPT">
+  <title>LOCATION: ALEXANDRIA, EGYPT</title>
+  <g shape-rendering="crispEdges">
+    <rect width="98" height="28" fill="#0A1E2E"/>
+    <rect x="98" width="148" height="28" fill="#0E7490"/>
+  </g>
+  <image x="10" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48cGF0aCBmaWxsPSIjMjJCOENGIiBkPSJNMCAxODguNkMwIDg0LjQgODYgMCAxOTIgMFMzODQgODQuNCAzODQgMTg4LjZjMCAxMTkuMy0xMjAuMiAyNjIuMy0xNzAuNCAzMTYuOC0xMS44IDEyLjgtMzEuNSAxMi44LTQzLjMgMC01MC4yLTU0LjUtMTcwLjQtMTk3LjUtMTcwLjQtMzE2Ljh6TTE5MiAyNTZhNjQgNjQgMCAxIDAgMC0xMjggNjQgNjQgMCAxIDAgMCAxMjh6Ii8+PC9zdmc+"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="580" y="175">LOCATION</text>
+    <text transform="scale(.1)" x="1720" y="175" font-weight="bold">ALEXANDRIA, EGYPT</text>
+  </g>
+</svg>

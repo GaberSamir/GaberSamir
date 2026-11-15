@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="28" role="img" aria-label="EXPERIENCE: 8+ YEARS">
+  <title>EXPERIENCE: 8+ YEARS</title>
+  <g shape-rendering="crispEdges">
+    <rect width="112" height="28" fill="#0A1E2E"/>
+    <rect x="112" width="86" height="28" fill="#1CA7B8"/>
+  </g>
+  <image x="10" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48cGF0aCBmaWxsPSIjRjU5RTQyIiBkPSJNMzIgMEMxNC4zIDAgMCAxNC4zIDAgMzJTMTQuMyA2NCAzMiA2NGwwIDExYzAgNDIuNCAxNi45IDgzLjEgNDYuOSAxMTMuMWw2Ny45IDY3LjktNjcuOSA2Ny45QzQ4LjkgMzUzLjkgMzIgMzk0LjYgMzIgNDM3bDAgMTFjLTE3LjcgMC0zMiAxNC4zLTMyIDMyczE0LjMgMzIgMzIgMzJsMzIwIDBjMTcuNyAwIDMyLTE0LjMgMzItMzJzLTE0LjMtMzItMzItMzJsMC0xMWMwLTQyLjQtMTYuOS04My4xLTQ2LjktMTEzLjFsLTY3LjktNjcuOSA2Ny45LTY3LjljMzAtMzAgNDYuOS03MC43IDQ2LjktMTEzLjFsMC0xMWMxNy43IDAgMzItMTQuMyAzMi0zMlMzNjkuNyAwIDM1MiAwTDMyIDB6TTk2IDc1bDAtMTEgMTkyIDAgMCAxMWMwIDE5LTUuNiAzNy40LTE2IDUzTDExMiAxMjhjLTEwLjMtMTUuNi0xNi0zNC0xNi01M3ptMTYgMzA5YzMuNS01LjMgNy42LTEwLjMgMTIuMS0xNC45bDY3LjktNjcuOSA2Ny45IDY3LjljNC42IDQuNiA4LjYgOS42IDEyLjIgMTQuOUwxMTIgMzg0eiIvPjwvc3ZnPg=="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="650" y="175">EXPERIENCE</text>
+    <text transform="scale(.1)" x="1550" y="175" font-weight="bold">8+ YEARS</text>
+  </g>
+</svg>

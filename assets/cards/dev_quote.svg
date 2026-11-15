@@ -1,0 +1,6 @@
+<svg width="896" height="96" viewBox="0 0 896 96" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="4" width="880" height="88" rx="14" fill="#0B1D2C" stroke="#168A9A" stroke-opacity="0.45" stroke-width="1.2"/>
+  <rect x="8" y="22" width="4" height="52" rx="2" fill="#F7B267"/>
+  <text x="448" y="44" text-anchor="middle" fill="#E6FBFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-style="italic" font-weight="600">"First, solve the problem. Then, write the code — and make sure search engines &amp; users love it."</text>
+  <text x="448" y="72" text-anchor="middle" fill="#F7B267" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12.5" font-weight="700">— Clean Code &amp; Search Engineering Philosophy</text>
+</svg>

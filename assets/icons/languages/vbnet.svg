@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#00539C" rx="60"/>
+  <path d="M36 78H60L84 152L108 78H132L96 178H72L36 78Z" fill="#FFFFFF"/>
+  <path d="M142 78H186C206 78 218 88 218 103C218 114 211 122 201 125C214 128 222 137 222 150C222 168 208 178 186 178H142V78ZM164 119H182C191 119 196 114 196 107C196 99 191 95 182 95H164V119ZM164 161H184C194 161 200 156 200 148C200 139 194 135 184 135H164V161Z" fill="#FFFFFF"/>
+  <text x="128" y="218" fill="#00D4FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="2" text-anchor="middle">.NET</text>
+</svg>

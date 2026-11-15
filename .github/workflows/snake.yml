@@ -1,15 +1,15 @@
 name: 🐍 Generate Snake Animation
 
 on:
-  # تشغيل تلقائي كل يوم الساعة 12 ظهراً
   schedule:
     - cron: "0 12 * * *"
-  # تشغيل يدوي من GitHub Actions tab
   workflow_dispatch:
-  # تشغيل عند أي push على الـ main branch
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 🐍 Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |

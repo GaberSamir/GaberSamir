@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="28" role="img" aria-label="OPEN-SOURCE: CONTRIBUTOR">
+  <title>OPEN-SOURCE: CONTRIBUTOR</title>
+  <g shape-rendering="crispEdges">
+    <rect width="114" height="28" fill="#0A1E2E"/>
+    <rect x="114" width="108" height="28" fill="#168A9A"/>
+  </g>
+  <image x="10" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjRjU5RTQyIiBkPSJNODAgMTA0YTI0IDI0IDAgMSAwIDAtNDggMjQgMjQgMCAxIDAgMCA0OHptODAtMjRjMCAzMi44LTE5LjcgNjEtNDggNzMuM2wwIDcwLjcgMTc2IDBjMjYuNSAwIDQ4LTIxLjUgNDgtNDhsMC0yMi43Yy0yOC4zLTEyLjMtNDgtNDAuNS00OC03My4zIDAtNDQuMiAzNS44LTgwIDgwLTgwczgwIDM1LjggODAgODBjMCAzMi44LTE5LjcgNjEtNDggNzMuM2wwIDIyLjdjMCA2MS45LTUwLjEgMTEyLTExMiAxMTJsLTE3NiAwIDAgNzAuN2MyOC4zIDEyLjMgNDggNDAuNSA0OCA3My4zIDAgNDQuMi0zNS44IDgwLTgwIDgwUzAgNDc2LjIgMCA0MzJjMC0zMi44IDE5LjctNjEgNDgtNzMuM2wwLTIwNS4zQzE5LjcgMTQxIDAgMTEyLjggMCA4MCAwIDM1LjggMzUuOCAwIDgwIDBzODAgMzUuOCA4MCA4MHptMjMyIDBhMjQgMjQgMCAxIDAgLTQ4IDAgMjQgMjQgMCAxIDAgNDggMHpNODAgNDU2YTI0IDI0IDAgMSAwIDAtNDggMjQgMjQgMCAxIDAgMCA0OHoiLz48L3N2Zz4="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="660" y="175">OPEN-SOURCE</text>
+    <text transform="scale(.1)" x="1680" y="175" font-weight="bold">CONTRIBUTOR</text>
+  </g>
+</svg>

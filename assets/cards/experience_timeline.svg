@@ -1,0 +1,42 @@
+<svg width="896" height="376" viewBox="0 0 896 376" xmlns="http://www.w3.org/2000/svg"><line x1="32" y1="30" x2="32" y2="342" stroke="#168A9A" stroke-width="2" stroke-dasharray="4 4"/>
+  <g transform="translate(0, 8)">
+    <circle cx="32" cy="38" r="10" fill="#0B1D2C" stroke="#22B8CF" stroke-width="3"/>
+    <circle cx="32" cy="38" r="4" fill="#22B8CF"/>
+    <rect x="58" y="4" width="830" height="76" rx="14" fill="#0B1D2C" stroke="#168A9A" stroke-opacity="0.45" stroke-width="1.2"/>
+    <text x="78" y="30" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14.5" font-weight="800">Frontend &amp; Software Developer (React.js · Next.js)</text>
+    <text x="78" y="49" fill="#22B8CF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12.5" font-weight="600">Freelance · Remote</text>
+    <rect x="716" y="14" width="154" height="24" rx="12" fill="#102C40" stroke="#22B8CF" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="793" y="30" text-anchor="middle" fill="#E6FBFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="600">Aug 2025 – Present</text>
+    <text x="78" y="67" fill="#9BB5C7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5">Building SEO-friendly React/Next.js web apps (SSR, structured data), improving load speed by 40%.</text>
+  </g>
+  <g transform="translate(0, 100)">
+    <circle cx="32" cy="38" r="10" fill="#0B1D2C" stroke="#F7B267" stroke-width="3"/>
+    <circle cx="32" cy="38" r="4" fill="#F7B267"/>
+    <rect x="58" y="4" width="830" height="76" rx="14" fill="#0B1D2C" stroke="#168A9A" stroke-opacity="0.45" stroke-width="1.2"/>
+    <text x="78" y="30" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14.5" font-weight="800">WordPress Developer &amp; SEO Specialist</text>
+    <text x="78" y="49" fill="#F7B267" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12.5" font-weight="600">Marketopia · Alexandria, Egypt</text>
+    <rect x="716" y="14" width="154" height="24" rx="12" fill="#102C40" stroke="#F7B267" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="793" y="30" text-anchor="middle" fill="#E6FBFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="600">Jan 2025 – Dec 2025</text>
+    <text x="78" y="67" fill="#9BB5C7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5">Managed SEO for 40+ client sites, Google Ads (Search, Display, PMax), landing pages &amp; GA4/GTM.</text>
+  </g>
+  <g transform="translate(0, 192)">
+    <circle cx="32" cy="38" r="10" fill="#0B1D2C" stroke="#22B8CF" stroke-width="3"/>
+    <circle cx="32" cy="38" r="4" fill="#22B8CF"/>
+    <rect x="58" y="4" width="830" height="76" rx="14" fill="#0B1D2C" stroke="#168A9A" stroke-opacity="0.45" stroke-width="1.2"/>
+    <text x="78" y="30" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14.5" font-weight="800">Web Developer &amp; SEO Specialist</text>
+    <text x="78" y="49" fill="#22B8CF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12.5" font-weight="600">Freelance · Remote</text>
+    <rect x="716" y="14" width="154" height="24" rx="12" fill="#102C40" stroke="#22B8CF" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="793" y="30" text-anchor="middle" fill="#E6FBFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="600">Dec 2017 – Dec 2024</text>
+    <text x="78" y="67" fill="#9BB5C7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5">Built 50+ bilingual RTL WordPress sites with 90+ PageSpeed &amp; grew organic traffic +60% on 30+ sites.</text>
+  </g>
+  <g transform="translate(0, 284)">
+    <circle cx="32" cy="38" r="10" fill="#0B1D2C" stroke="#F7B267" stroke-width="3"/>
+    <circle cx="32" cy="38" r="4" fill="#F7B267"/>
+    <rect x="58" y="4" width="830" height="76" rx="14" fill="#0B1D2C" stroke="#168A9A" stroke-opacity="0.45" stroke-width="1.2"/>
+    <text x="78" y="30" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14.5" font-weight="800">Desktop Application Developer (C# · VB.NET · .NET · Avalonia UI)</text>
+    <text x="78" y="49" fill="#F7B267" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12.5" font-weight="600">Freelance · Desktop Solutions</text>
+    <rect x="716" y="14" width="154" height="24" rx="12" fill="#102C40" stroke="#F7B267" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="793" y="30" text-anchor="middle" fill="#E6FBFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="600">2014 – Present</text>
+    <text x="78" y="67" fill="#9BB5C7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5">Developing Windows &amp; cross-platform desktop apps, POS/ERP systems &amp; business tools with C#, VB.NET &amp; .NET.</text>
+  </g>
+</svg>

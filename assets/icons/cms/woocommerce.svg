@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#96588A" rx="60"/>
+  <rect x="28" y="64" width="200" height="116" rx="28" fill="#FFFFFF"/>
+  <path d="M156 180L184 206L178 180H156Z" fill="#FFFFFF"/>
+  <text x="128" y="140" fill="#96588A" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="900" text-anchor="middle">Woo</text>
+</svg>

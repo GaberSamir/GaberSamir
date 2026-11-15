@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="28" role="img" aria-label="AVAILABLE FOR: FREELANCE">
+  <title>AVAILABLE FOR: FREELANCE</title>
+  <g shape-rendering="crispEdges">
+    <rect width="124" height="28" fill="#0A1E2E"/>
+    <rect x="124" width="92" height="28" fill="#168A9A"/>
+  </g>
+  <image x="10" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMjJCOENGIiBkPSJNMjAwIDQ4bDExMiAwYzQuNCAwIDggMy42IDggOGwwIDQwLTEyOCAwIDAtNDBjMC00LjQgMy42LTggOC04em0tNTYgOGwwIDQwLTgwIDBDMjguNyA5NiAwIDEyNC43IDAgMTYwbDAgOTYgNTEyIDAgMC05NmMwLTM1LjMtMjguNy02NC02NC02NGwtODAgMCAwLTQwYzAtMzAuOS0yNS4xLTU2LTU2LTU2TDIwMCAwYy0zMC45IDAtNTYgMjUuMS01NiA1NnpNNTEyIDMwNGwtMTkyIDAgMCAxNmMwIDE3LjctMTQuMyAzMi0zMiAzMmwtNjQgMGMtMTcuNyAwLTMyLTE0LjMtMzItMzJsMC0xNi0xOTIgMCAwIDExMmMwIDM1LjMgMjguNyA2NCA2NCA2NGwzODQgMGMzNS4zIDAgNjQtMjguNyA2NC02NGwwLTExMnoiLz48L3N2Zz4="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="710" y="175">AVAILABLE FOR</text>
+    <text transform="scale(.1)" x="1700" y="175" font-weight="bold">FREELANCE</text>
+  </g>
+</svg>
